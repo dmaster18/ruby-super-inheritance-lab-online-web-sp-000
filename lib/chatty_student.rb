@@ -1,1 +1,1 @@
-def Chatty
+class ChattyStudent
