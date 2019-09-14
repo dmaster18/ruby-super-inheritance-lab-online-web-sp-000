@@ -8,7 +8,7 @@ class ChattyStudent < Student
   end
   
   def raise_hand
-    whiel 
+    i = 0
     puts super(10)
   end
 
